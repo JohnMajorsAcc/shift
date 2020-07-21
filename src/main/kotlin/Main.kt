@@ -1,6 +1,7 @@
 fun main() {
-    val hello = "Hello"
-    val world = "world"
+    val foreCast = ForeCast()
+    foreCast.setTownName()
+    foreCast.setTownTemperature()
+    foreCast.printForecast()
 
-    print("$hello $world")
-}
+    }

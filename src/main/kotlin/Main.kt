@@ -1,5 +1,5 @@
 fun main() {
-    val foreCast = ForeCast()
+    val foreCast = Forecast()
     foreCast.setTownName()
     foreCast.setTownTemperature()
     foreCast.printForecast()

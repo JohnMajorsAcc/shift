@@ -1,6 +1,6 @@
 import java.lang.NullPointerException
 
-class ForeCast {
+class Forecast {
     var townTemperature: Int = -50
     var townName: String = ""
 

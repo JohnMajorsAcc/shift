@@ -40,7 +40,6 @@ class ForeCast {
             else -> "catastrophe"
         }
     }
-
 }
 
 
